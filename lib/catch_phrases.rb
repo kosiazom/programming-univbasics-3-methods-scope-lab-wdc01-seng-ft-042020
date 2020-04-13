@@ -15,7 +15,7 @@ end
 
 def all_phrases
 puts "It's-a me, Mario!"
-puts 
+puts 'Thank You Mario! But Our Princess Is In Another Castle!'
 end
 all_phrases (mario, toadstool, link)
 
