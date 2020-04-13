@@ -13,4 +13,9 @@ def link
   puts phrase
 end
 
+def all_phrases
+puts "It's-a me, Mario!"
+puts 
+end
+all_phrases (mario, toadstool, link)
 
