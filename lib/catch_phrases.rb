@@ -18,5 +18,5 @@ def all_phrases
  puts 'Thank You Mario! But Our Princess Is In Another Castle!'
  puts "It's Dangerous To Go Alone! Take This."
 end
-all_phrases (mario, toadstool, link)
+
 
